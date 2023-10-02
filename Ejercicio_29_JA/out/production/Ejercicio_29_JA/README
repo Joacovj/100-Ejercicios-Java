@@ -1,0 +1,4 @@
+En el código de declara una variable de tipo boolean,
+que comprueba que el número introducido es múltiplo de 3,
+esa variable se hará "true".
+Sí no lo es, se quedará en "false".

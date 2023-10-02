@@ -1,0 +1,2 @@
+Crearemos un método estático que recibirá un array como parámetro,
+que fue llenado con números aleatorios, y  al final nos devolverá cuál es el menor.
