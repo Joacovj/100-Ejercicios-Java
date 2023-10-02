@@ -1,0 +1,5 @@
+El objetivo de este ejercicio es crear un Array de 30 ventasGeneradasAutomaticamente del mes que diga
+cuáles y cuántas son mayores a $2.000.
+
+ En VentasGeneradasAutomaticamente se generan ventas de forma aleatoria, en Ventas se colocan la cantidad de ventas
+ y luego de cuanto fueron esas ventas manualmente.
