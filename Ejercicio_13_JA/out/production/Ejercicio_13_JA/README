@@ -1,0 +1,3 @@
+Crearemos un arreglo de 10 posiciones, el cual llenaremos con 10 números enteros.
+Al momento de imprimir ese arreglo, lo haremos con el siguiente orden en los números:
+primero, último, segundo, penúltimo, tercero.

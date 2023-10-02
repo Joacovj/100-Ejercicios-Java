@@ -1,0 +1,3 @@
+Rellenaremos dos arreglos, A y B, con 12 números enteros cada uno.
+Y pondremos en un tercer arreglo C esos números, pero de manera especial:
+3 números de A, luego 3 números de B. Luego, otros 3 números de A, luego otros 3 números de B... etc.

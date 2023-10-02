@@ -1,0 +1,3 @@
+Ingresaremos 5 números enteros en un arreglo de tamaño de 10, ordenados y de manera creciente.
+Posteriormente, ingresaremos un número, y éste se insertará en el lugar adecuado,
+para que el arreglo continúe ordenado, números de menor a mayor.

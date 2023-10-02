@@ -1,0 +1,2 @@
+Usaremos el método estático random( ), que pertenece a la clase Math,
+que nos devolverá un número aleatorio, tipo double, el cual tenemos que convertir a int, del 0 al 100

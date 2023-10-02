@@ -1,0 +1,3 @@
+ Crearemos dos arrays, "a" y "b", y almacenaremos 10 números en cada uno.
+Posteriormente, n un tercer arreglo "c",guardaremos los números del arreglo "a" y el arreglo "b",en este orden:
+El primero de a, el primero de b, el segundo de a, el segundo de b, el tercero de a, el tercero de b, etc.

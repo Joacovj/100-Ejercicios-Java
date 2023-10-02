@@ -1,0 +1,3 @@
+El programa nos pedirá el número de piezas, y el precio por pieza.
+Si se compraron 100 o más piezas, se aplicará un descuento del 20%.
+Crearemos un método que nos diga cuánto será el total a pagar.

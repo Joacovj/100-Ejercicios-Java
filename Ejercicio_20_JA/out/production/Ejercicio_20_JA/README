@@ -1,0 +1,4 @@
+Crearemos un arreglo de 6 posiciones, que contendrá valores entre 1 y 100,
+aleatoriamente, para eso se usará el método random, de la clase Math.
+Posteriormente, ese arreglo será pasado al método,
+y ese método al final nos devolverá cuál es el mayor del arreglo.
