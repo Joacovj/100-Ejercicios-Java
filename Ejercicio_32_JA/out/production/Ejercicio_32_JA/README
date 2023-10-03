@@ -1,0 +1,2 @@
+Crearemos un método estático, llamado maximo, con dos parámetros;
+este método nos devolverá con la sentencia return, cuál es el mayor de esos dos números recibidos.
