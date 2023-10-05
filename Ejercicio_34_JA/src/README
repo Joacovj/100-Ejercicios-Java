@@ -1,0 +1,3 @@
+Crearemos un arreglo de 10 posiciones, con datos tipo char, algunos repetidos.
+Al momento de imprimir el arreglo, no mostraremos los elementos que se repiten,
+en vez de eso, mostraremos un espacio en blanco.

@@ -1,0 +1,5 @@
+Se nos pedirá capturar las calificaciones  de un grupo de 5 alumnos.
+Son tres trimestres, y en cada uno, capturaremos las calificaciones del grupo de 5 alumnos,
+nos aparecerá en pantalla el promedio del grupo por trimestre,
+además, podremos saber el promedio del alumno que nos interese,
+simplemente capturando la posición donde se encuentra ese alumno, en el array.
