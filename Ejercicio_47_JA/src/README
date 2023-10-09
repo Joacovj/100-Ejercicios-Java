@@ -1,0 +1,5 @@
+El programa pedirá ingresar el nombre del producto, el precio, y la cantidad vendida.
+Si la cantidad de productos vendidos son de 20 hacia arriba, se aplicará un 15% de descuento,
+y aparecerá en pantalla el total a pagar, con el descuento aplicado, y además,
+mostrará un mensaje sobre el descuento que se le acaba de dar. Si se vendieron menos de 20 piezas,
+no se aplicará el descuento.

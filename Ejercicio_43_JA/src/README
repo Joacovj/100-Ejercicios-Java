@@ -1,0 +1,6 @@
+Por medio del Teorema de Pitágoras, obtener el valor de la Hipotenusa.
+Al ejecutar el programa, nos pedirá el valor de los dos catetos,
+y al final nos mostrará en pantalla el valor d ela Hipotenusa de ese triángulo rectángulo.
+Para eso, se usará a dos métodos de la clase Math; el método sqrt, que nos devuelve un valor double,
+ que es la raíz cuadrada de un valor; y el método pow,
+ nos devolverá el resultado de elevar un número al cuadrado.

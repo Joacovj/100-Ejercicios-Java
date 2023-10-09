@@ -1,0 +1,10 @@
+Se creará un programa que nos pida capturar las edades de los alumnos.
+
+Si la edad de los alumnos está entre 8 y 13 años, y además, el alumno tiene uno o más hermanos estudiando
+en la misma escuela, recibirá en la inscripción un 50% de descuento.
+
+Si la edad está fuera de rango, automáticamente se descartará el descuento,
+teniendo que pagarse la totalidad de la inscripción.
+
+Si cumple la edad, pero no tiene hermanos,
+igual, tendrá que pagar el 100% de la inscripción.

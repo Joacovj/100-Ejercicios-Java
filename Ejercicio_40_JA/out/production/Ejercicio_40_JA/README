@@ -1,0 +1,10 @@
+Codificar un programa que tome el promedio de calificaciones de un estudiante,
+y nos devuelva la cantidad a recibir de dinero de beca, dependiendo de ese promedio;
+además nos informe el promedio requerido mínimo para recibir esa beca.
+
+Si el promedio excede de 10, y es menor que 0, se debe pedir ingresar nuevamente,
+ya que esos datos son erróneos, ese promedio está fuera de rango.
+Si el promedio es de 9 en adelante, la cantidad a recibir en dólares, es de 100, esa cantidad  será lo máximo;
+Si el promedio es de 8 en adelante, la cantidad que recibirá será de 60 dólares.
+Si el promedio es de  6 en adelante, que es el promedio aprobatorio, sólo recibirá 30 dólares.
+Si el alumno tiene un promedio menor a 6, está reprobado, y no tiene derecho a recibir beca.

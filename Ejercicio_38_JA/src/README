@@ -1,0 +1,6 @@
+Crearemos un programa que nos dira cuántas veces se repite un caracter(letra, punto, coma, etc)
+ dentro de una cadena de texto.
+ Deberemos usar el método indexOf( ), el cual es un método sobrecargado.
+ Usando ese método, que pertenece a la clase String, y con el ciclo while,
+ iremos recorriendo la cadena de texto, para saber cuántas veces se encuentra cierto caracter,
+ también con la ayuda de un contador, que se incrementará cada vez que encuentre el elemento repetido.

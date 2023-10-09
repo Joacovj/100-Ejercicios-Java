@@ -1,0 +1,3 @@
+Vamos a utilizar al método random de la clase Math, para obtener números aleatorios,
+de diferentes rangos, valores de 0 a 1, excluyendo el 1; valores de 0 a 7, excluyendo el 6,
+valores del 1 al 11, excluyendo el 11

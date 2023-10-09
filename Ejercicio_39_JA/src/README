@@ -1,0 +1,11 @@
+1RA PARTE:
+El programa primero nos pedirá la cantidad de números a capturar;
+después de eso, capturaremos los números, y los iremos almacenando en un array.
+ Luego tendremos métodos para cada operación.
+ Un método que nos devuelva la media (promedio) de los números del arreglo llenado anteriormente.
+ Otro método que nos devuelva el mayor de ese arreglo.
+ Otro método que nos devuelva el menor de ese mismo arreglo.
+ Y otro método que nos sume todos los números de ese arreglo.
+
+
+ 2DA PARTE:

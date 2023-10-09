@@ -1,0 +1,5 @@
+Primero se almacenan los caracteres de una palabra, en un array de tipo String.
+Posteriormente, con la ayuda del método random, de la clase Math,
+obtendremos números aleatorios, los cuales redondearemos con el método round de la clase Math,
+y haremos un casting a int, para almacenarlo en una variable,
+la cual nos permitirá mediante un ciclo for, ir accediendo a diferentes posiciones del arreglo.
