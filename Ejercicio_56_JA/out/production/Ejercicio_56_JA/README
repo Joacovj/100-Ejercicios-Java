@@ -1,0 +1,3 @@
+Crearemos primero una matriz de 4x4. Con un ciclo for iremos llenando esa matriz sólo con ceros y unos,
+ pero los unos se encontrarán en la diagonal principal.
+ Vamos a usar a  Arrays.toString para imprimir cada elemento de la matriz.

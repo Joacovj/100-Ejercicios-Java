@@ -1,0 +1,3 @@
+Tenemos una matriz de 3x4, es decir, de 3 filas, y 4 columnas.
+Vamos a utilizar un ciclo while y un ciclo for, para recorrer la matriz,
+y así ir mostrando en pantalla cada uno de sus números almacenados.

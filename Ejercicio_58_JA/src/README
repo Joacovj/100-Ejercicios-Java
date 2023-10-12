@@ -1,0 +1,4 @@
+Se nos pide un programa que mediante métodos realice algunas operaciones.
+ Un método para llenar el arreglo, otro método para obtener el promedio,
+ otro método para saber cuántos aprobaron y cuántos reprobaron,
+ y un método para saber el porcentaje de aprobados.

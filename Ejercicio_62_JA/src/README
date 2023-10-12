@@ -1,0 +1,4 @@
+En este programa creamos dos métodos, un método para validar las calificaciones,
+el cual nos devolverá un dato de tipo boolean, indicándonos si esa calificación ingresada es válido o no,
+ o sea, si se encuentra dentro del rango establecido, de 5 a 10. El otro método nos calculará el promedio,
+ y lo devolverá, por lo que será un método que nos retorne un dato de tipo double.

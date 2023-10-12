@@ -1,0 +1,5 @@
+Una compañía de ventas de computadoras, paga a sus vendedores, un sueldo de $5000,
+más una comisión de $200 por cada computadora vendida, más el 5% del valor total de la venta.
+Se nos pide crear un programa que permita ingresar el nombre del vendedor, la cantidad de computadoras vendidas,
+y el valor total de la venta en el mes.
+Calcule y muestre el salario total del vendedor.

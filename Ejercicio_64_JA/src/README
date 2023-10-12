@@ -1,0 +1,4 @@
+Creamos una clase, y posteriormente, en el método main,
+creamos objetos de esa clase, pero los guardamos dentro de un arreglo de n posiciones.
+Después imprimimos los atributos de ese objeto en la pantalla, usando el método toString( ),
+ya que este método nos muestra la representación en String de ese objeto.

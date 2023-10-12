@@ -1,0 +1,5 @@
+Se nos pide crear un programa que determine el sueldo semanal que recibirá un empleado,
+en concepto de horas extras trabajadas.
+Si las horas semanales trabajadas exceden de 48, el resto se considerarán horas extras,
+y éstas se pagarán al doble de la hora normal, siendo el pago por hora normal, a $40.
+Si las horas extras exceden de 8, las primeras 8 se pagarán al doble, y el resto al triple.

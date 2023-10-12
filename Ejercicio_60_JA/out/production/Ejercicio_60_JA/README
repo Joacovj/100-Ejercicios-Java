@@ -1,0 +1,4 @@
+Vamos a imprimir en pantalla todos los caracteres del abecedario,
+desde la letra 'a' hasta la letra 'z';
+también vamos a mostrar su correspondiente código ascii,
+y vamos a imprimir esos caracteres en orden inverso, de la letra 'z' a la letra 'a'.
