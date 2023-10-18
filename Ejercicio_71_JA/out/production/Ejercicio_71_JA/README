@@ -1,0 +1,8 @@
+El programa nos pedirá ingresar un número, que tenga 4 dígitos como mínimo y 12 dígitos como máximo.
+ Si ingresas un número con menos de 4 dígitos o más de 12 dígitos,
+ el programa te pedirá de nuevo ingresar otro número.
+
+ Pero además, deben de ser dígitos pares, como 4 dígitos, 6 dígitos, 8 dígitos, 10 dígitos o 12 dígitos.
+ Si ingresas un número de 3 dígitos, 5 dígitos, etc., te rechazará ese número y te pedirá otro número.
+Cada dígito del número que ingresaste, lo guardará en un array. Es decir, cada dígito va una posición del array.
+ Al final se te mostrarán en pantalla, los dos dígitos del centro de ese número.

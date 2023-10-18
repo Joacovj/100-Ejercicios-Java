@@ -1,0 +1,3 @@
+ Crear un programa que nos pida ingresar un número de 8 dígitos,
+ y que cada dígito del número, sea guardado en cada posición de un array.
+ Al final, se mostrarán sólo los 4 valores del centro de ese número.
