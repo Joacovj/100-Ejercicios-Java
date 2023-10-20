@@ -1,0 +1,3 @@
+Crear un programa en Java, que nos permita ingresar un número, para intentar adivinar un número secreto.
+ Para poder adivinar el número secreto, tendremos 3 intentos. Si en 3 intentos no adivinamos ese número,
+ se nos mostrará una ventana emergente que dice que hemos fallado.

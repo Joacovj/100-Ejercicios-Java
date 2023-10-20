@@ -1,0 +1,8 @@
+Solicita ingresar una palabra que contenga sólo letras de la 'a' a la 'z'.
+Si ingresas un caracter especial, como arroba, punto, coma, asterisco, símbolo de gato, etc.,
+ese texto será rechazado, y se te pedirá ingresar una nueva palabra,
+ya que se validará que sólo ingreses caracteres válidos.
+
+Usaremos dos métodos de la clase String; el método charAt,
+que extraerá caracter por caracter de nuestra cadena de texto; y el método length.
+Vamos a usar ciclos for anidados, para este ejercicio.

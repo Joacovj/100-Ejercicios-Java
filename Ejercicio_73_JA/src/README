@@ -1,0 +1,6 @@
+Creamos un programa que nos permite validar texto.
+Este programa, a diferencia del anterior, no sólo nos permitirá ingresar por teclado sólo letras minúsculas,
+sino también mayúsculas, rechazando todos los caracteres no sean letras.
+
+Para eso, nos basaremos en el código ASCII, y usaremos algunos métodos de la clase String,
+como el método charAt, el método length, etc.
